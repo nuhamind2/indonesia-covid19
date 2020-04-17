@@ -1,0 +1,8 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - altair=4.1.0
+  - pandas=1.0.1
+prefix: /home/nuha/anaconda3
